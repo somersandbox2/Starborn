@@ -193,4 +193,4 @@ This repository serves as the official landing page for Starborn. The software i
 **Get the most recent version of Starborn today!**
 
 ---
-**Last updated:** 2026-11-10 18:35:41 UTC
+**Last updated:** 2026-11-10 23:57:55 UTC
